@@ -1,6 +1,6 @@
 # Theoffice
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+Generates a random quote by one of the office characters everytime generate button is pressed. Tweets the quote with a hashtag if the tweet button is pressed. Uses the API https://www.officeapi.dev/ for the quotes. 
 
 ## Development server
 
