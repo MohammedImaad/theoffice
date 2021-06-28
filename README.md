@@ -2,6 +2,9 @@
 
 Generates a random quote by one of the characters from "The Office" everytime generate button is pressed. Tweets the quote with a hashtag if the tweet button is pressed. Uses the API https://www.officeapi.dev/ for the quotes. 
 
+# URL
+https://squaker-e0e33.web.app/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
